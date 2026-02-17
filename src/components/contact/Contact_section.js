@@ -10,7 +10,7 @@ import {
   faPhone,
 } from "@fortawesome/free-solid-svg-icons";
 import "./Contact.css";
-import Map from "./map";
+import Map from "./Map.jsx";
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname, useRouter } from "next/navigation";
 import HeaderPage from "../headerPage/HeaderPage";
